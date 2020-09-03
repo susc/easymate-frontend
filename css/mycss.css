@@ -1,0 +1,30 @@
+#biaoti{
+    text-align: center;
+}
+
+#aihao{
+    background-color: skyblue;
+    width: 8%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#jieshao{
+    text-align: center;
+}
+
+#qq{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+}
+
+#weixin{
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    text-align: center;
+    background-color: lawngreen;
+}
